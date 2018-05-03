@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: libs/selenium-server-standalone-3.8.1.jar
+Main-Class: com.sunmi.download.DownloadAndUploadByJava
+
